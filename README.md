@@ -8,4 +8,6 @@ Hibernate: For object-relational mapping and database interaction.
 
 SQL: For managing and querying the task database.
 
+We also use Postman to test and verify API endpoints for seamless task management
+
 This part handles all server-side logic and interacts with the database to perform CRUD operations effectively.
